@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "920f1436c7760d043b403427f90d0ab6",
+    "pageAccessToken": "EAAF4NUqHBgsBAKFAlZBL6uEAs6jamuKjXZB8cSqEZCfHd6jQx92E3TsyZBMEHrLoEu9cwNFn6oozmRZBrZCq8sm9jCeQXga9izDhLzNe9NLDiKAnIkPUl3qm0d2f4ZBZADImWCzI73NwdgZCcRSoDGrfnLz8pSxdILH6kuPYI2gghALbDYwAFiLCX",
+    "validationToken": "xgridappsecrettoken$1",
+    "serverURL": "http://localhost:5000"
 }
